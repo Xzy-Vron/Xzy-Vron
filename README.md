@@ -1,6 +1,6 @@
 
 # 👋 Hey there! I'm Avi<br>
-<br>I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering student 🧑‍💻 | Part-time web developer | Full-time bug hunter 🐞<br><br>🚧 What I'm Up To<br><br>🧠 Diving into **backend development** with Node.js, Express, and MongoDB  <br>💬 Currently building **Whispr**<br>🎨 Improving my web design skills — trying to make UIs that look less like 2005 <br>
+<br>I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering student 🧑‍💻 | Part-time web developer | Full-time bug hunter 🐞<br><br>🚧 What I'm Up To<br><br>🧠 Diving into Next js <br>💬 Currently building **Whispr**<br>🎨 Improving my web design skills — trying to make UIs that look less like 2005 <br>
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,bootstrap,express,git,github,gmail,vercel,java,mongodb,mysql,nextjs,notion,npm,postman,redux,tailwind,vite,vscode,windows,materialui&perline=11)](https://skillicons.dev)
