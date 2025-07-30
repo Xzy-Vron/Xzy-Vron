@@ -5,11 +5,11 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,bootstrap,express,git,github,gmail,vercel,java,mongodb,mysql,nextjs,notion,npm,postman,redux,tailwind,vite,vscode,windows,materialui&perline=11)](https://skillicons.dev)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Avinash-Ganore/Avinash-Ganore/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Avinash-Ganore/Avinash-Ganore/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Avinash-Ganore/Avinash-Ganore/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xzy-Vron/Xzy-Vron/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xzy-Vron/Xzy-Vron/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Xzy-Vron/Xzy-Vron/output/github-snake.svg" />
 </picture>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Avinash-Ganore&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Xzy-Vron&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
