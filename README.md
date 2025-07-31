@@ -12,5 +12,3 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Xzy-Vron&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-[![Avinash Ganore profile views](https://u8views.com/api/v1/github/profiles/173711512/views/day-week-month-total-count.svg)](https://u8views.com/github/Xzy-Vron)
