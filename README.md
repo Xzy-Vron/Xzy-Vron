@@ -1,4 +1,4 @@
-## <img src="./assets/wave.gif" width="25px"> Hey there! I'm Avi<br>
+# <img src="./assets/wave.gif" width="25px"> Hey there! I'm Avi<br>
 <br>I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering student 🧑‍💻 | Part-time web developer | Full-time bug hunter 🐞<br><br />
 
 <a href="https://x.com/XzyVron" target="_blank">
