@@ -1,5 +1,18 @@
-# 👋 Hey there! I'm Avi<br>
-<br>I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering student 🧑‍💻 | Part-time web developer | Full-time bug hunter 🐞<br><br>🚧 What I'm Up To<br><br>🧠 Diving into **Next js** <br>💬 Currently building **Whispr**<br>🎨 Improving my web design skills — trying to make UIs that look less like 2005 <br>
+## <img src="./assets/wave.gif" width="25px"> Hey there! I'm Avi<br>
+<br>I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering student 🧑‍💻 | Part-time web developer | Full-time bug hunter 🐞<br><br />
+
+<a href="https://x.com/XzyVron" target="_blank">
+  <img align="left" alt="Avinash's Twitter" width="22px" src="./assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/avinash-ganore/" target="_blank">
+  <img align="left" alt="Avinash's LinkedIn" width="22px" src="./assets/linkedin.svg" />
+</a>
+<a href="https://avinash-orcin.vercel.app/" target="_blank">
+  <img align="left" alt="Avinash's Site" width="22px" src="./assets/globe.svg" />
+</a>
+<br />
+
+<br>🚧 What I'm Up To<br><br>🧠 Diving into **Next js** <br>💬 Currently building **Whispr**<br>🎨 Improving my web design skills — trying to make UIs that look less like 2005 <br>
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,bootstrap,express,git,github,gmail,vercel,java,mongodb,mysql,nextjs,notion,npm,postman,redux,tailwind,vite,vscode,windows,materialui&perline=11)](https://skillicons.dev)
