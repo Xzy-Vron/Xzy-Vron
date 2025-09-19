@@ -12,13 +12,16 @@
 </a>
 <br />
 
-<br>🚧 What I'm Up To<br><br>🧠 Diving into **Next js** <br>💬 Currently building **Whispr**<br>🎨 Improving my web design skills — trying to make UIs that look less like 2005 <br>
+<!--
+<br>🚧 What I'm Up To<br><br>
+- 🧠 Diving into **Next js** <br>
+- 💬 Currently building **Whispr**<br>
+- 🎨 Improving my web design skills — trying to make UIs that look less like 2005 <br>
 <br>
--------
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,bootstrap,express,git,github,gmail,vercel,java,mongodb,mysql,nextjs,notion,npm,postman,redux,tailwind,vite,vscode,windows,materialui&perline=11)](https://skillicons.dev)
+-->
+
 
 -------
-
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
@@ -29,9 +32,11 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,javascript,nodejs,bootstrap,express,git,github,gmail,vercel,java,mongodb,mysql,html,css,notion,npm,postman,redux,tailwind,vite,vscode,windows,materialui&perline=12)](https://skillicons.dev)
 
 -------
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xzy-Vron/Xzy-Vron/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xzy-Vron/Xzy-Vron/output/github-snake.svg" />
