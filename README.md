@@ -18,6 +18,13 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,bootstrap,express,git,github,gmail,vercel,java,mongodb,mysql,nextjs,notion,npm,postman,redux,tailwind,vite,vscode,windows,materialui&perline=11)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 11 September 2025 - To: 18 September 2025
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <picture>
