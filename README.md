@@ -1,5 +1,5 @@
 # <img src="./assets/wave.gif" width="25px"> Hey there! I'm Avi<br>
-<br>I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering student 🧑‍💻 | Part-time web developer | Full-time bug hunter 🐞<br><br />
+I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering student 🧑‍💻 | Part-time web developer | Full-time bug hunter 🐞<br />
 
 <a href="https://x.com/XzyVron" target="_blank">
   <img align="left" alt="Avinash's Twitter" width="22px" src="./assets/twitter.svg" />
@@ -11,7 +11,7 @@
   <img align="left" alt="Avinash's Site" width="22px" src="./assets/globe.svg" />
 </a>
 <br />
-
+<br />
 <!--
 <br>🚧 What I'm Up To<br><br>
 - 🧠 Diving into **Next js** <br>
@@ -20,47 +20,38 @@
 <br>
 -->
 
-<table><tr>
-<td valign="top" width="100%">
+<table><tr width="100%">
+<td valign="top" width="50%">
   
-📝 **Latest Blog Posts**
+<h3>⚡️ Recent Github Activity </h3>
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
+  
+</td>
+<td valign="top" width="50%">
+ 
+<h3>📝 Latest Blog Posts </h3>
+
 <!-- BLOG-POST-LIST:START -->
 - [My First Hackathon Experience: Stepping Out of My Comfort Zone](https://dev.to/xzyvron/my-first-hackathon-experience-stepping-out-of-my-comfort-zone-3l0d)
 <!-- BLOG-POST-LIST:END -->
+  
 </td>
-</tr></table>
+</tr>
+</table>
 
-## Recent Github Activity
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Xzy-Vron/Xzy-Vron](https://github.com/Xzy-Vron/Xzy-Vron)<br>
-2. ⬆️ Pushed 1 commit(s) to [Xzy-Vron/Xzy-Vron](https://github.com/Xzy-Vron/Xzy-Vron)<br>
-3. ⬆️ Pushed 1 commit(s) to [Xzy-Vron/Xzy-Vron](https://github.com/Xzy-Vron/Xzy-Vron)<br>
-4. ⬆️ Pushed 1 commit(s) to [Xzy-Vron/Xzy-Vron](https://github.com/Xzy-Vron/Xzy-Vron)<br>
-5. ⬆️ Pushed 1 commit(s) to [Xzy-Vron/Xzy-Vron](https://github.com/Xzy-Vron/Xzy-Vron)<br>
-<!--RECENT_ACTIVITY:end-->
+### 📊 Weekly development breakdown
 
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 20th, 2025, 4:52:12 AM
-<!--RECENT_ACTIVITY:last_update_end-->
-
-
-
--------
-📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
-```txt
-From: 11 September 2025 - To: 18 September 2025
-
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
-<br>
+
+-------
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,javascript,nodejs,bootstrap,express,git,github,gmail,vercel,java,mongodb,mysql,html,css,notion,npm,postman,redux,tailwind,vite,vscode,windows,materialui&perline=12)](https://skillicons.dev)
 
--------
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xzy-Vron/Xzy-Vron/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xzy-Vron/Xzy-Vron/output/github-snake.svg" />
