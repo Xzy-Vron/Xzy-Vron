@@ -22,6 +22,7 @@
 
 <!-- # Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
+- [My First Hackathon Experience: Stepping Out of My Comfort Zone](https://dev.to/xzyvron/my-first-hackathon-experience-stepping-out-of-my-comfort-zone-3l0d)
 <!-- BLOG-POST-LIST:END -->
 
 
