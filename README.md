@@ -46,6 +46,14 @@ I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering 
 
 <!--START_SECTION:waka-->
 
+```txt
+From: 12 September 2025 - To: 19 September 2025
+
+YAML       6 mins          █████████████████▒░░░░░░░   69.46 %
+Java       2 mins          ██████░░░░░░░░░░░░░░░░░░░   23.60 %
+Markdown   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+```
+
 <!--END_SECTION:waka-->
 
 -------
