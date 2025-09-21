@@ -63,7 +63,7 @@ Markdown     0 secs          █▒░░░░░░░░░░░░░░░
 
 -------
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,javascript,nodejs,bootstrap,express,git,github,gmail,vercel,java,mongodb,mysql,html,css,notion,npm,postman,redux,tailwind,vite,vscode,windows,materialui&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,javascript,java,mongodb,mysql,nodejs,express,redux,tailwind,vite,git,github,gmail,vercel,html,css,bootstrap,notion,npm,postman,vscode,windows,materialui&perline=12)](https://skillicons.dev)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xzy-Vron/Xzy-Vron/output/github-snake-dark.svg" />
