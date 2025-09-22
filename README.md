@@ -26,7 +26,7 @@ I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering 
 <h3>⚡️ Recent Github Activity </h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
+1. ⬆️ Pushed 1 commit(s) to [Xzy-Vron/Java-Fundamentals](https://github.com/Xzy-Vron/Java-Fundamentals)<br>
 2. ⬆️ Pushed 1 commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
 3. ⬆️ Pushed 1 commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
 4. ⬆️ Pushed 1 commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
