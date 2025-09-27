@@ -26,10 +26,10 @@ I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering 
 <h3>⚡️ Recent Github Activity </h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Xzy-Vron/p5.js-web-editor](https://github.com/Xzy-Vron/p5.js-web-editor) from [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)<br>
-2. ⭐ Starred [sdil/open-production-web-projects](https://github.com/sdil/open-production-web-projects)<br>
-3. ⭐ Starred [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)<br>
-4. ⬆️ Pushed 1 commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
+1. ⬆️ Pushed 117 commit(s) to [Xzy-Vron/first-contributions](https://github.com/Xzy-Vron/first-contributions)<br>
+2. 🔱 Forked [Xzy-Vron/p5.js-web-editor](https://github.com/Xzy-Vron/p5.js-web-editor) from [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)<br>
+3. ⭐ Starred [sdil/open-production-web-projects](https://github.com/sdil/open-production-web-projects)<br>
+4. ⭐ Starred [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)<br>
 5. ⬆️ Pushed 1 commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
 <!--RECENT_ACTIVITY:end-->
   
