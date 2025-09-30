@@ -26,11 +26,11 @@ I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering 
 <h3>⚡️ Recent Github Activity </h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
-2. ⬆️ Pushed 1 commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
-3. ⬆️ Pushed 1 commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
-4. ⬆️ Pushed 117 commit(s) to [Xzy-Vron/first-contributions](https://github.com/Xzy-Vron/first-contributions)<br>
-5. 🔱 Forked [Xzy-Vron/p5.js-web-editor](https://github.com/Xzy-Vron/p5.js-web-editor) from [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor)<br>
+1. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
+2. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)<br>
+3. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+4. ⬆️ Pushed 1 commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
+5. ⬆️ Pushed 1 commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
 <!--RECENT_ACTIVITY:end-->
   
 </td>
