@@ -52,7 +52,7 @@ I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 September 2025 - To: 28 September 2025
+From: 22 September 2025 - To: 29 September 2025
 
 Java       1 hr 21 mins    █████████████████████░░░░   84.09 %
 JSON       11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
