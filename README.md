@@ -29,8 +29,8 @@ I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering 
 1. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
 2. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)<br>
 3. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-4. ⬆️ Pushed 1 commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
-5. ⬆️ Pushed 1 commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
+4. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
+5. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
 <!--RECENT_ACTIVITY:end-->
   
 </td>
