@@ -26,10 +26,10 @@ I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering 
 <h3>⚡️ Recent Github Activity </h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
-2. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)<br>
-3. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-4. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
+1. ⭐ Starred [Xzy-Vron/Its-Avi](https://github.com/Xzy-Vron/Its-Avi)<br>
+2. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
+3. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)<br>
+4. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
 5. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
 <!--RECENT_ACTIVITY:end-->
   
