@@ -26,11 +26,11 @@ I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering 
 <h3>⚡️ Recent Github Activity </h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/p5.js-web-editor](https://github.com/Xzy-Vron/p5.js-web-editor)<br>
-2. ⭐ Starred [Xzy-Vron/Its-Avi](https://github.com/Xzy-Vron/Its-Avi)<br>
-3. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
-4. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)<br>
-5. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+1. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/Creative-Media-Agency](https://github.com/Xzy-Vron/Creative-Media-Agency)<br>
+2. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/p5.js-web-editor](https://github.com/Xzy-Vron/p5.js-web-editor)<br>
+3. ⭐ Starred [Xzy-Vron/Its-Avi](https://github.com/Xzy-Vron/Its-Avi)<br>
+4. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
+5. ⭐ Starred [ossu/computer-science](https://github.com/ossu/computer-science)<br>
 <!--RECENT_ACTIVITY:end-->
   
 </td>
