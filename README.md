@@ -52,7 +52,7 @@ I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2025 - To: 23 October 2025
+From: 17 October 2025 - To: 24 October 2025
 
 TypeScript   17 hrs 49 mins  ████████████████████░░░░░   80.60 %
 CSS          2 hrs 51 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.92 %
