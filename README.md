@@ -30,7 +30,6 @@ I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering 
 2. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/Creative-Media-Agency](https://github.com/Xzy-Vron/Creative-Media-Agency)<br>
 3. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/p5.js-web-editor](https://github.com/Xzy-Vron/p5.js-web-editor)<br>
 4. ⭐ Starred [Xzy-Vron/Its-Avi](https://github.com/Xzy-Vron/Its-Avi)<br>
-5. ⭐ Starred [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)<br>
 <!--RECENT_ACTIVITY:end-->
   
 </td>
