@@ -26,10 +26,11 @@ I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering 
 <h3>⚡️ Recent Github Activity </h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/Its-Avi](https://github.com/Xzy-Vron/Its-Avi)<br>
-2. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/Creative-Media-Agency](https://github.com/Xzy-Vron/Creative-Media-Agency)<br>
-3. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/p5.js-web-editor](https://github.com/Xzy-Vron/p5.js-web-editor)<br>
-4. ⭐ Starred [Xzy-Vron/Its-Avi](https://github.com/Xzy-Vron/Its-Avi)<br>
+1. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/Java](https://github.com/Xzy-Vron/Java)<br>
+2. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/Its-Avi](https://github.com/Xzy-Vron/Its-Avi)<br>
+3. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/Creative-Media-Agency](https://github.com/Xzy-Vron/Creative-Media-Agency)<br>
+4. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/p5.js-web-editor](https://github.com/Xzy-Vron/p5.js-web-editor)<br>
+5. ⭐ Starred [Xzy-Vron/Its-Avi](https://github.com/Xzy-Vron/Its-Avi)<br>
 <!--RECENT_ACTIVITY:end-->
   
 </td>
