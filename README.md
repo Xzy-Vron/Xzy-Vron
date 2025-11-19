@@ -52,7 +52,7 @@ I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2025 - To: 17 November 2025
+From: 11 November 2025 - To: 18 November 2025
 
 C++    13 mins         █████████████████████████   99.69 %
 Java   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
