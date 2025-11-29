@@ -28,8 +28,8 @@ I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
 2. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
-3. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/Java](https://github.com/Xzy-Vron/Java)<br>
-4. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/Java](https://github.com/Xzy-Vron/Java)<br>
+3. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
+4. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
 5. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/Java](https://github.com/Xzy-Vron/Java)<br>
 <!--RECENT_ACTIVITY:end-->
   
