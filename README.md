@@ -26,8 +26,8 @@ I'm a 19-year-old software engineer-in-progress 🚀<br>Second-year engineering 
 <h3>⚡️ Recent Github Activity </h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
-2. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
+1. ⭐ Starred [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions)<br>
+2. ⭐ Starred [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)<br>
 3. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
 4. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
 5. ⬆️ Pushed undefined commit(s) to [Xzy-Vron/DSA](https://github.com/Xzy-Vron/DSA)<br>
